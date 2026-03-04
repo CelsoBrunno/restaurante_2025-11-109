@@ -5,7 +5,6 @@ from modelos.cardapio.prato import Prato
 
 def exibir_nome_do_programa():
     print("""
-
 ╭━━━┳━━━┳━╮╱╭┳━━━┳━━━╮
 ┃╭━╮┃╭━━┫┃╰╮┃┃╭━╮┃╭━╮┃
 ┃╰━━┫╰━━┫╭╮╰╯┃┃╱┃┃┃╱╰╯
