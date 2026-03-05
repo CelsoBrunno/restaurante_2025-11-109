@@ -29,7 +29,7 @@ def exibir_opcoes():
     print('3. Alternar estado do restaurante')
     print('4. Adicionar avaliação')
     print('5. Adicionar item ao cardápio')
-    print('6. Exibir cardápio')
+    print('6. Exibir cardápio de canibal')
     print('7. Sair\n')
 
 def exibir_subtitulo(texto):
