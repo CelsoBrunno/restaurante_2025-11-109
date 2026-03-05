@@ -14,7 +14,7 @@ def exibir_nome_do_programa():
 """)
 
 def exibir_opcoes():
-    print('1. Cadastrar restaurante')
+    print('1. Cadastrar loja')
     print('2. Listar restaurantes')
     print('3. Alternar estado do restaurante')
     print('4. Adicionar avaliação')
